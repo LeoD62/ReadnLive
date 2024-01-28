@@ -11,4 +11,4 @@ Pour faire fonctionner pour la première fois cette application, taper les comma
 * ```php artisan db:seed```
 * ```php artisan serve```
 
-Les fois suivantes, il suffit juste d'entrer la dernière commande.
+Les fois suivantes, il suffit juste d'entrer la dernière commande ainsi que ```npm run dev```.
